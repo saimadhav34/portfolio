@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "notes sharing",
+      "createdAt": "28 Feb 2024-25April 2024",
+      "url": "https://github.com/r00pasri1/Notes-Sharing-Web-application",
+      "description": "notes sharing app.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+   
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "masterPortfolio",
+      "createdAt": "2024",
+      "url": "https://github.com/ashutosh1919/masterPortfolio",
+      "description": "My portfolio showcases a blend of data analytics projects and full-stack development work, highlighting my proficiency in Python, Java, machine learning, and web development. It reflects my capability to deliver data-driven insights and create robust, user-friendly applications.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+     
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Multiple-Disease-Prediction",
+      "createdAt": "2023",
+      "url": "https://github.com/r00pasri1/Multiple-Disease-Prediction",
+      "description": "🌀 A Multiple Disease Prediction System using machine learning to analyze patient data and predict the probability of various diseases. It supports early detection and proactive healthcare interventions..",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+     
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Python-Projects",
+      "createdAt": "2021",
+      "url": "https://github.com/r00pasri1/Basic-Python-Projects",
+      "description": "Basic Python Projects is a collection of beginner-friendly projects designed to strengthen foundational programming skills. These projects cover essential concepts like loops, conditionals, functions, and basic data structures, enabling hands-on practice and skill development.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "pycharm",
+          "iconifyClass":"logos-pycharm"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Diwali-sales-analysis",
+      "createdAt": "2021",
+      "url": "https://github.com/r00pasri1/Diwali-sales-analysis",
+      "description": "Diwali Sales Analysis is a data-driven project aimed at examining sales trends and customer behavior during the Diwali festive season. This analysis involves processing and visualizing sales data to identify key metrics such as top-selling products, customer demographics, revenue growth, and purchasing patterns.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
